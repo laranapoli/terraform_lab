@@ -1,0 +1,7 @@
+buckets:
+  - name: tf-test-bucket-lnm-3846-1
+    tags: 
+      ManagedBy: Terraform+YAML
+  - name: tf-test-bucket-lnm-3846-2
+    tags:
+      ManagedBy: Terraform+YAML
