@@ -12,3 +12,5 @@ terraform.log
 # Arquivos de backup
 *.bak
 *.orig
+
+*.csv
